@@ -1,0 +1,43 @@
+
+tests/t1
+out: 45 
+
+tests/t10
+out: 110 
+
+tests/t11
+out: 55 
+
+tests/t12
+out: 3628800 
+
+tests/t13
+out: 80 
+
+tests/t14
+out: (1::(6::(7::(8::[])))) 
+
+tests/t2
+out: 0 
+
+tests/t3
+out: 2 
+
+tests/t4
+out: Error: Nano.MLFailure("variable not bound p") 
+
+tests/t5
+out: 6 
+
+tests/t6
+out: 102 
+
+tests/t7
+out: 20 
+
+tests/t8
+out: 55 
+
+tests/t9
+out: 3628800 
+
